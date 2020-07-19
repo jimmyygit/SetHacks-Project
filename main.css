@@ -26,8 +26,8 @@
 }
 
 .menu {
-    padding-top: 8%;
-    padding-bottom: 8%;
+    padding-top: 5%;
+    padding-bottom: 5%;
     text-align: center;
 }
 
@@ -91,6 +91,10 @@
 .copyright {
     font-size: 1em;
     text-align: center;
+}
+
+.black {
+    color: black;
 }
 
 h1 {
